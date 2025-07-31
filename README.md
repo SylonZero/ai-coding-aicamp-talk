@@ -65,11 +65,4 @@ This project is licensed under the terms included in the [LICENSE](./LICENSE) fi
 
 ## Presentation Context
 
-This mockup was created for a talk at AICamp focusing on AI Assisted Coding Workflows. The presentation demonstrated how modern development tools and AI assistance can streamline the development process and improve code quality.
-
-Key topics covered:
-- AI-assisted code generation
-- Efficient component development
-- Modern React patterns
-- TypeScript best practices
-- UI/UX considerations for mobile applications
+This mockup was created for a talk by Sai Prakash (@sylonzero) at AICamp focusing on AI Assisted Coding Workflows. The presentation demonstrated how modern development tools and AI assistance can streamline the development process and improve code quality.
