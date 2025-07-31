@@ -2,6 +2,16 @@
 
 This repository contains a mockup of NaviGo, a mobile navigation application, created as part of a presentation at AICamp on AI Assisted Coding Workflows (Tuesday, July 29, 2025).
 
+## Documentation
+
+This repository includes two important documentation files:
+
+### 1. Full App Workflow ([full-app-workflow.md](./full-app-workflow.md))
+This document outlines the complete development workflow and architecture decisions for the NaviGo application. It serves as a comprehensive guide for understanding the application's structure and implementation details.
+
+### 2. Cursor Tips ([Sai_Cursor_Tips.pdf](./Sai_Cursor_Tips.pdf))
+A collection of tips and best practices for using Cursor IDE to maximize development efficiency. This guide includes AI-assisted coding techniques demonstrated during the AICamp presentation.
+
 ## Project Overview
 
 NaviGo is a modern mobile navigation application mockup built with:
@@ -26,15 +36,7 @@ navigation-app-mockup/
 └── styles/             # Global styles
 ```
 
-## Documentation
 
-This repository includes two important documentation files:
-
-### 1. Full App Workflow (`full-app-workflow.md`)
-This document outlines the complete development workflow and architecture decisions for the NaviGo application. It serves as a comprehensive guide for understanding the application's structure and implementation details.
-
-### 2. Cursor Tips (`Sai_Cursor_Tips.pdf`)
-A collection of tips and best practices for using Cursor IDE to maximize development efficiency. This guide includes AI-assisted coding techniques demonstrated during the AICamp presentation.
 
 ## Getting Started
 
